@@ -4,7 +4,7 @@ info:
   description: This is the API for managing rules used as part of the ratings engine for the APIs.io search engine.
   version: V1
 servers:
-- url: https://6lmdrlqfjj.execute-api.us-east-1.amazonaws.com/staging
+- url: https://rules-api.apis.io
 paths:
 
   /rules:
