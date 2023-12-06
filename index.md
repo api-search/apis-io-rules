@@ -2,7 +2,7 @@
 layout: page
 title: APIs.io Rules API Docs
 ---
-This is the interactive documentation for the APIs.io Rules APIs, providing the endpoints used to rate the APIs.json, APIs, and eventually other elements of each API index.
+This is the documentation for the APIs.io Rules APIs, providing the endpoints used to rate the APIs.json, APIs, and eventually other elements of each API index.
 
 <div id="swagger-ui"></div>
 <style>
