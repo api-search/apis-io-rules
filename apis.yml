@@ -1,4 +1,4 @@
-aid: apis-io
+aid: apis-io-rules
 specificationVersion: '0.18'
 name: APIs.io Rules API
 description: >-
@@ -14,7 +14,7 @@ tags:
 
 apis:
 
-  - aid: apis-io:rules-api
+  - aid: apis-io-rules:rules-api
     name: APIs.io Rules API
     description: >-
       This is the API for powering APIs.io.
